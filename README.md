@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nahuel 👨‍🔬
 
-I'm a **PhD in Chemistry** and **Industrial Engineer** with training in **Data Science**, and experience in computational simulations, numerical modeling, and complex data analysis.
+I'm an Industrial Engineer with a PhD in Theoretical and Computational Chemistry (UNLP) with training in **Data Science** (UADE), and experience in computational simulations, numerical modeling, and complex data analysis.
 
 
 ---
@@ -49,7 +49,6 @@ I'm seeking opportunities as a **Data Analyst** or **Data Scientist**, where I c
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmyalet90&layout=compact&theme=default)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmyalet90&show_icons=true&hide=contribs,prs&theme=default)
 
 ---
 

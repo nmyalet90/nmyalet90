@@ -24,7 +24,7 @@ I'm seeking opportunities as a **Data Analyst** or **Data Scientist**, where I c
 
 ## 🚀 Featured Projects
 
-- 📊 [Netflix Titles EDA](https://github.com/nmyalet90/EDA-Netflix)  
+- 📊 [Netflix Titles EDA](https://github.com/nmyalet90/Netflix-Titles-EDA)  
   Exploratory data analysis of Netflix shows: genres, release trends, and visualizations.
 
 - 📈 [Student Grades – Linear Regression Model](https://github.com/nmyalet90/student-grades-linear-regression)  

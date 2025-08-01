@@ -24,6 +24,9 @@ I'm seeking opportunities as a **Data Analyst** or **Data Scientist**, where I c
 
 ## 🚀 Featured Projects
 
+- 📂 [Data Science Portfolio](https://github.com/nmyalet90/data-science-portfolio)  
+  A growing collection of notebooks and data projects for practice and learning.
+
 - 📊 [Netflix Titles EDA](https://github.com/nmyalet90/Netflix-Titles-EDA)  
   Exploratory data analysis of Netflix shows: genres, release trends, and visualizations.
 
@@ -33,15 +36,21 @@ I'm seeking opportunities as a **Data Analyst** or **Data Scientist**, where I c
 - 🏥 [Hospital Database (SQL)](https://github.com/nmyalet90/Hospital-DB)  
   Full SQL Server database with complex relationships and query examples.
 
-- 📂 [Data Science Portfolio](https://github.com/nmyalet90/data-science-portfolio)  
-  A growing collection of notebooks and data projects for practice and learning.
+
+## 🧪 Theoretical & Computational Chemistry Projects
+
+- 🧮 [Density of States analysis: H₂X molecules on Al₂C nanosheet](https://github.com/nmyalet90/DOS-H2X-on-Al2C)  
+  Density of States analysis on the interaction of H₂X molecules with Al₂C nanosheet (X = O, S, Se, Te).
+
+*More projects coming soon...*
+
 
 ---
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](www.linkedin.com/in/nmyalet)
-- 📬 Email: [nmyalet@gmail.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/nmyalet)
+- 📬 Email: [nmyalet@gmail.com](mailto:nmyalet@gmail.com)
 - 🌍 Location: La Plata, Buenos Aires, Argentina (Open to remote opportunities)
 
 ---

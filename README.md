@@ -39,7 +39,7 @@ I'm seeking opportunities as a **Data Analyst** or **Data Scientist**, where I c
 
 ## 🧪 Theoretical & Computational Chemistry Projects
 
-- 🧮 [Density of States analysis: H₂X molecules on Al₂C nanosheet](https://github.com/nmyalet90/DOS-H2X-on-Al2C)  
+- 🧮 [Density of States analysis: H₂X molecules on Al₂C nanosheet](https://github.com/nmyalet90/DOS-analysis-Al2C-H2Xads)  
   Density of States analysis on the interaction of H₂X molecules with Al₂C nanosheet (X = O, S, Se, Te).
 
 *More projects coming soon...*

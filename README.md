@@ -7,13 +7,13 @@ I'm an Industrial Engineer with a PhD in Theoretical and Computational Chemistry
 
 ## 💼 Career Objective
 
-I'm seeking opportunities as a **Data Analyst** or **Data Scientist**, where I can combine my scientific research background with data-driven decision-making, process automation, and effective communication through clear visualizations.
+I'm seeking opportunities as a **Data Analyst**, where I can combine my scientific research background with data-driven decision-making, process automation, and effective communication through clear visualizations.
 
 ---
 
 ## 🧠 Technical Skills
 
-- 📊 **Data Analysis**: Python, Pandas, Numpy, Matplotlib, Seaborn  
+- 📊 **Data Analysis**: R, Python, Pandas, Numpy, Matplotlib, Seaborn  
 - 🤖 **Machine Learning**: Scikit-learn (regression, classification, cross-validation)  
 - 🗃️ **Databases**: SQL (MS SQL Server, SQLite), Microsoft Access  
 - 📈 **Data Visualization**: Power BI, Tableau, Seaborn, Matplotlib  

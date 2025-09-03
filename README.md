@@ -7,7 +7,7 @@ I'm an Industrial Engineer with a PhD in Theoretical and Computational Chemistry
 
 ## 💼 Career Objective
 
-I'm seeking opportunities as a **Data Analyst**, where I can combine my scientific research background with data-driven decision-making, process automation, and effective communication through clear visualizations.
+I'm seeking opportunities as a **Data Scientist** or **Data Analyst**, where I can combine my scientific research background with data-driven decision-making, process automation, and effective communication through clear visualizations.
 
 ---
 

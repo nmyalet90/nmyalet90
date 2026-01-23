@@ -1,49 +1,58 @@
-# 👋 Hi there! I'm Nahuel 👨‍🔬
+# 👋 Hi there! I'm Nahuel 👨‍💻📊
 
-I'm an Industrial Engineer with a PhD in Theoretical and Computational Chemistry (UNLP) with training in **Data Science** (UADE), and experience in computational simulations, numerical modeling, and complex data analysis.
+I'm an **Industrial Engineer** with a **PhD in Theoretical & Computational Chemistry (UNLP)** and a **Diploma in Data Science (UADE)**, with 11+ years of experience working with **data, numerical modeling, simulations, and analytics-driven research**.
 
+I specialize in **transforming complex data into actionable insights** using **SQL, Python, and BI tools**, bridging the gap between scientific rigor and business decision-making.
 
 ---
 
-## 💼 Career Objective
+## 🎯 Career Focus
 
-I'm seeking opportunities as a **Data Scientist** or **Data Analyst**, where I can combine my scientific research background with data-driven decision-making, process automation, and effective communication through clear visualizations.
+I'm looking for opportunities as a **Data Analyst** or **Data Scientist**, particularly in **remote or hybrid environments**, where I can contribute through:
+
+- Data analysis and modeling  
+- SQL-based data extraction and transformation  
+- Interactive dashboards and KPI reporting  
+- Clear communication of insights to technical and non-technical stakeholders  
 
 ---
 
 ## 🧠 Technical Skills
 
-- 📊 **Data Analysis**: R, Python, Pandas, Numpy, Matplotlib, Seaborn  
-- 🤖 **Machine Learning**: Scikit-learn (regression, classification, cross-validation)  
-- 🗃️ **Databases**: SQL (MS SQL Server, SQLite), Microsoft Access  
-- 📈 **Data Visualization**: Power BI, Tableau, Seaborn, Matplotlib  
-- 💾 **Tools**: Git & GitHub, Jupyter Notebooks, Google Colab, Excel  
-- 🌐 **Languages**: Spanish (native), English (upper intermediate)
+- 📊 **Data Analysis & Programming**: Python (Pandas, NumPy), R  
+- 🤖 **Machine Learning**: Scikit-learn (regression, classification, model validation)  
+- 🗃️ **Databases**: SQL (MS SQL Server, SQLite)  
+- 📈 **Data Visualization & BI**: Power BI, Tableau, Looker Studio 
+- 💾 **Tools**: Git & GitHub, Jupyter Notebook, Google Colab, Excel  
+- 🌐 **Languages**: Spanish (native), English (professional working proficiency)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 📂 [Data Science Portfolio](https://github.com/nmyalet90/data-science-portfolio)  
-  A growing collection of notebooks and data projects for practice and learning.
+- 📂 **[Data Science Portfolio](https://github.com/nmyalet90/data-science-portfolio)**  
+  A curated collection of **data analysis, machine learning, and visualization projects**, focused on real-world datasets and practical applications.
 
-- 📊 [Netflix Titles EDA](https://github.com/nmyalet90/Netflix-Titles-EDA)  
-  Exploratory data analysis of Netflix shows: genres, release trends, and visualizations.
+- 📊 **[Northwind Sales Analysis – SQL + Power BI](https://github.com/nmyalet90/northwind-sales-analysis)**  
+  End-to-end analytics project including **data modeling, SQL queries, KPI definition, and interactive Power BI dashboards** to explore:
+  - Sales performance  
+  - Product categories  
+  - Customers and geographic distribution  
 
-- 📈 [Student Grades – Linear Regression Model](https://github.com/nmyalet90/student-grades-linear-regression)  
-  Predicting academic performance using linear regression and evaluation metrics.
+- 📈 **[Student Grades – Linear Regression](https://github.com/nmyalet90/student-grades-linear-regression)**  
+  Predictive modeling of academic performance using linear regression and evaluation metrics.
 
-- 🏥 [Hospital Database (SQL)](https://github.com/nmyalet90/Hospital-DB)  
-  Full SQL Server database with complex relationships and query examples.
+- 🏥 **[Hospital Database (SQL Server)](https://github.com/nmyalet90/Hospital-DB)**  
+  Relational database design with complex relationships and advanced SQL queries.
 
+---
 
-## 🧪 Theoretical & Computational Chemistry Projects
+## 🧪 Scientific & Computational Research
 
-- 🧮 [Density of States analysis: H₂X molecules on Al₂C nanosheet](https://github.com/nmyalet90/DOS-analysis-Al2C-H2Xads)  
-  Density of States analysis on the interaction of H₂X molecules with Al₂C nanosheet (X = O, S, Se, Te).
+- 🧮 **[Density of States Analysis: H₂X on Al₂C Nanosheet](https://github.com/nmyalet90/DOS-analysis-Al2C-H2Xads)**  
+  Computational chemistry project analyzing electronic structure and adsorption phenomena using DFT-based simulations.
 
-*More projects coming soon...*
-
+*Research background that strengthens my analytical thinking and problem-solving skills.*
 
 ---
 
@@ -51,14 +60,14 @@ I'm seeking opportunities as a **Data Scientist** or **Data Analyst**, where I c
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nmyalet)
 - 📬 Email: [nmyalet@gmail.com](mailto:nmyalet@gmail.com)
-- 🌍 Location: La Plata, Buenos Aires, Argentina (Open to remote opportunities)
+- 🌍 Location: La Plata, Buenos Aires, Argentina — **Open to remote opportunities**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmyalet90&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmyalet90&layout=compact)
 
 ---
 
-*Thanks for visiting my profile! I'm open to new opportunities and collaborations.*
+*Thanks for visiting! I'm always open to new opportunities, collaborations, and data-driven challenges.*

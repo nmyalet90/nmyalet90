@@ -34,25 +34,15 @@ I'm looking for opportunities as a **Data Analyst** or **Data Scientist**, parti
   A curated collection of **data analysis, machine learning, and visualization projects**, focused on real-world datasets and practical applications.
 
 - 📊 **[Northwind Sales Analysis – SQL + Power BI](https://github.com/nmyalet90/northwind-sales-analysis)**  
-  End-to-end analytics project including **data modeling, SQL queries, KPI definition, and interactive Power BI dashboards** to explore:
-  - Sales performance  
-  - Product categories  
-  - Customers and geographic distribution  
+  End-to-end analytics project including **data modeling, SQL queries, KPI definition, and interactive Power BI dashboards**.
 
-- 📈 **[Student Grades – Linear Regression](https://github.com/nmyalet90/student-grades-linear-regression)**  
-  Predictive modeling of academic performance using linear regression and evaluation metrics.
+- 🎵 [Music recommender - KNN model](https://github.com/nmyalet90/Recomendador-de-Musica)  
+  Music recommendation system based on numerical song characteristics using KNN (Nearest Neighbors) with a cosine metric.
 
-- 🏥 **[Hospital Database (SQL Server)](https://github.com/nmyalet90/Hospital-DB)**  
-  Relational database design with complex relationships and advanced SQL queries.
-
----
-
-## 🧪 Scientific & Computational Research
-
-- 🧮 **[Density of States Analysis: H₂X on Al₂C Nanosheet](https://github.com/nmyalet90/DOS-analysis-Al2C-H2Xads)**  
-  Computational chemistry project analyzing electronic structure and adsorption phenomena using DFT-based simulations.
-
-*Research background that strengthens my analytical thinking and problem-solving skills.*
+- - 🍪 [CookieFactoryDB](https://github.com/nmyalet90/CookieFactoryDB) 
+  A SQL Server project simulating the operations of a cookie factory.  
+  Includes **warehouse, production, sales, and logistics modules**, with **KPI views** and **analysis queries**.  
+  Also features an **Excel dashboard** connected to SQL Server for KPI reporting.
 
 ---
 

@@ -42,7 +42,7 @@ I'm looking for opportunities as a **Data Analyst** or **Data Scientist**, parti
 - 🍪 [CookieFactoryDB](https://github.com/nmyalet90/CookieFactoryDB) 
   A SQL Server project simulating the operations of a cookie factory.  
   Includes **warehouse, production, sales, and logistics modules**, with **KPI views** and **analysis queries**.  
-  Also features an **Excel dashboard** connected to SQL Server for KPI reporting.
+ 
 
 ---
 

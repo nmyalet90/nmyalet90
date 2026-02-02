@@ -36,8 +36,8 @@ I'm looking for opportunities as a **Data Analyst** or **Data Scientist**, parti
 - 📊 **[Northwind Sales Analysis – SQL + Power BI](https://github.com/nmyalet90/northwind-sales-analysis)**  
   End-to-end analytics project including **data modeling, SQL queries, KPI definition, and interactive Power BI dashboards**.
 
-- 🎵 [Music recommender - KNN model](https://github.com/nmyalet90/Recomendador-de-Musica)  
-  Music recommendation system based on numerical song characteristics using KNN (Nearest Neighbors) with a cosine metric.
+- 🎵 [Music recommender - ML, KNN model](https://github.com/nmyalet90/Recomendador-de-Musica)  
+  Music recommendation system based on numerical song characteristics using ML, KNN (Nearest Neighbors) with a cosine metric.
 
 - 🍪 [CookieFactoryDB](https://github.com/nmyalet90/CookieFactoryDB) 
   A SQL Server project simulating the operations of a cookie factory.  

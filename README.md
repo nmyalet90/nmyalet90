@@ -39,7 +39,7 @@ I'm looking for opportunities as a **Data Analyst** or **Data Scientist**, parti
 - 🎵 [Music recommender - KNN model](https://github.com/nmyalet90/Recomendador-de-Musica)  
   Music recommendation system based on numerical song characteristics using KNN (Nearest Neighbors) with a cosine metric.
 
-- - 🍪 [CookieFactoryDB](https://github.com/nmyalet90/CookieFactoryDB) 
+- 🍪 [CookieFactoryDB](https://github.com/nmyalet90/CookieFactoryDB) 
   A SQL Server project simulating the operations of a cookie factory.  
   Includes **warehouse, production, sales, and logistics modules**, with **KPI views** and **analysis queries**.  
   Also features an **Excel dashboard** connected to SQL Server for KPI reporting.

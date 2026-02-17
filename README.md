@@ -30,18 +30,18 @@ I'm looking for opportunities as a **Data Analyst** or **Data Scientist**, parti
 
 ## 🚀 Featured Projects
 
-- 📂 **[Data Science Portfolio](https://github.com/nmyalet90/data-science-portfolio)**  
-  A curated collection of **data analysis, machine learning, and visualization projects**, focused on real-world datasets and practical applications.
-
-- 📊 **[Northwind Sales Analysis – SQL + Power BI](https://github.com/nmyalet90/northwind-sales-analysis)**  
+- 📊 [Northwind Sales Analysis – SQL + Power BI](https://github.com/nmyalet90/northwind-sales-analysis)  
   End-to-end analytics project including **data modeling, SQL queries, KPI definition, and interactive Power BI dashboards**.
 
-- 🎵 [Music recommender - ML, KNN model](https://github.com/nmyalet90/Recomendador-de-Musica)  
-  Music recommendation system based on numerical song characteristics using ML, KNN (Nearest Neighbors) with a cosine metric.
+- 📈 [Online Retail Forecasting Dashboard – ML + Tableau](https://github.com/nmyalet90/online-retail-forecast-tableau)  
+  End-to-end analytics project combining **machine learning forecasting with interactive Tableau dashboards**, using Python for data cleaning, feature engineering, and monthly revenue prediction across countries.
 
-- 🍪 [CookieFactoryDB](https://github.com/nmyalet90/CookieFactoryDB) 
+- 🍪 [Cookie Factory DB - SQL](https://github.com/nmyalet90/CookieFactoryDB) 
   A SQL Server project simulating the operations of a cookie factory.  
   Includes **warehouse, production, sales, and logistics modules**, with **KPI views** and **analysis queries**.  
+
+- 📂 [Data Science Portfolio](https://github.com/nmyalet90/data-science-portfolio)  
+  A curated collection of **data analysis, machine learning, and visualization projects**, focused on real-world datasets and practical applications.
  
 
 ---
@@ -52,11 +52,6 @@ I'm looking for opportunities as a **Data Analyst** or **Data Scientist**, parti
 - 📬 Email: [nmyalet@gmail.com](mailto:nmyalet@gmail.com)
 - 🌍 Location: La Plata, Buenos Aires, Argentina — **Open to remote opportunities**
 
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmyalet90&layout=compact)
 
 ---
 

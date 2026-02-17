@@ -33,7 +33,7 @@ I'm looking for opportunities as a **Data Analyst** or **Data Scientist**, parti
 - 📊 [Northwind Sales Analysis – SQL + Power BI](https://github.com/nmyalet90/northwind-sales-analysis)  
   End-to-end analytics project including **data modeling, SQL queries, KPI definition, and interactive Power BI dashboards**.
 
-- 📈 [Online Retail Forecasting Dashboard – ML + Tableau](https://github.com/nmyalet90/online-retail-forecast-tableau)  
+- 📈 [Online Retail Forecasting – ML + Tableau](https://github.com/nmyalet90/online-retail-forecast-tableau)  
   End-to-end analytics project combining **machine learning forecasting with interactive Tableau dashboards**, using Python for data cleaning, feature engineering, and monthly revenue prediction across countries.
 
 - 🍪 [Cookie Factory DB - SQL](https://github.com/nmyalet90/CookieFactoryDB) 

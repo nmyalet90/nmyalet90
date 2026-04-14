@@ -31,8 +31,8 @@ I’m seeking opportunities as a **Data Analyst** or **Data Scientist**, particu
 
 ## 📂 Portfolio Overview
 
-* 📊 Data Science Projects → https://github.com/nmyalet90/data-science-portfolio
-* 🔬 Computational Chemistry → (see projects below)
+###* 📊 [Data Science Projects](https://github.com/nmyalet90/data-science-portfolio)
+###* 🔬 [Computational Chemistry](https://github.com/nmyalet90/Computational-Chemistry-Scientific-Computing)
 
 ---
 

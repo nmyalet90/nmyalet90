@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nahuel 👨‍💻🔬📊
 
-**Data Scientist | PhD in Computational Chemistry**
+## Data Scientist | PhD in Computational Chemistry
 
 I combine **scientific computing, simulations, and data analytics** to solve complex real-world problems. With 10+ years of experience working with data-intensive environments, I bring a strong analytical mindset from research into practical data solutions for business and industry.
 

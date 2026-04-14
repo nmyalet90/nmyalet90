@@ -32,7 +32,10 @@ I’m seeking opportunities as a **Data Analyst** or **Data Scientist**, particu
 ## 📂 Portfolio Overview
 
 ### 📊 [Data Science Projects](https://github.com/nmyalet90/data-science-portfolio)
+End-to-end projects in data analysis, SQL, machine learning, and dashboards, focused on solving real-world business problems using Python, BI tools, and databases.
+
 ### 🔬 [Computational Chemistry](https://github.com/nmyalet90/Computational-Chemistry-Scientific-Computing)
+Projects in DFT simulations, molecular modeling, and electronic structure analysis, showcasing experience in scientific computing and high-performance computing (HPC) environments.
 
 ---
 

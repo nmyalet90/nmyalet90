@@ -39,40 +39,6 @@ Projects in DFT simulations, molecular modeling, and electronic structure analys
 
 ---
 
-## 📊 Data Science Projects
-
-* 📊 **Northwind Sales Analysis – SQL + Power BI**
-  End-to-end analytics project including **data modeling, SQL queries, KPI definition, and interactive dashboards**.
-  🔗 https://github.com/nmyalet90/northwind-sales-analysis
-
-* 📈 **Online Retail Forecasting – ML + Tableau**
-  Forecasting project combining **machine learning with interactive dashboards**, including data cleaning, feature engineering, and revenue prediction.
-  🔗 https://github.com/nmyalet90/online-retail-forecast-tableau
-
-* 🍪 **Cookie Factory DB – SQL**
-  SQL Server project simulating a real production environment with **warehouse, sales, and logistics modules**, including KPI queries.
-  🔗 https://github.com/nmyalet90/CookieFactoryDB
-
-* 📂 **Data Science Portfolio**
-  Collection of projects focused on **data analysis, machine learning, and visualization using real-world datasets**.
-  🔗 https://github.com/nmyalet90/data-science-portfolio
-
----
-
-## 🔬 Computational Chemistry & Scientific Computing
-
-* 🧪 **DFT Simulation – Al₂C Nanosheet & H₂X Molecules**
-  First-principles study of molecular adsorption using Density Functional Theory (DFT).
-  Includes **input/output files, simulation setup, and analysis workflows**.
-  🔗 https://github.com/nmyalet90/Al2C-H2X-a-DFT-simulation
-
-* ⚛️ **Density of States (DOS) Analysis – Al₂C System**
-  Electronic structure analysis using Density of States (DOS) calculations for adsorption systems.
-  Includes **post-processing scripts and interpretation of electronic properties**.
-  🔗 https://github.com/nmyalet90/DOS-analysis-Al2C-H2Xads
-
----
-
 ## 🔬 Scientific Background
 
 During my time at CONICET, I worked extensively on:

@@ -4,28 +4,47 @@
 
 I combine **scientific computing, simulations, and data analytics** to solve complex real-world problems. With 10+ years of experience working with data-intensive environments, I bring a strong analytical mindset from research into practical data solutions for business and industry.
 
----
-
-## 🎯 Career Focus
-
 I’m seeking opportunities as a **Data Analyst** or **Data Scientist**, particularly in **remote or hybrid environments**, where I can:
-
-* Apply data analytics to real-world business problems
-* Build end-to-end data solutions using SQL, Python, and BI tools
-* Leverage my scientific background for complex modeling and problem-solving
-* Communicate insights clearly to both technical and non-technical stakeholders
 
 ---
 
 ## 🧠 Technical Skills
 
-* 📊 **Data Analysis & Programming**: Python (Pandas, NumPy), R
-* 🤖 **Machine Learning**: Scikit-learn (regression, classification, model validation)
-* 🗃️ **Databases**: SQL (MS SQL Server, SQLite)
+* 📊 **Data Analysis & Programming**: Python (Pandas, NumPy), SQL, R
+* 🤖 **Machine Learning**: Scikit-learn 
+* 🗃️ **Databases**: MS SQL Server, SQLite
 * 📈 **Data Visualization & BI**: Power BI, Tableau, Looker Studio
-* ⚙️ **Scientific Computing**: DFT, HPC, Numerical Simulation
+* ⚙️ **Scientific Computing**: DFT, HPC
 * 💾 **Tools**: Git & GitHub, Jupyter Notebook, Google Colab, Excel
-* 🌐 **Languages**: Spanish (native), English (professional working proficiency)
+
+---
+
+## 🔥 Featured Projects
+
+**🧠 Materials Informatics ML – Clustering & Exploration App**  
+- Collected and processed materials data using the Materials Project API  
+- Applied unsupervised learning (KMeans) and PCA for clustering and dimensionality reduction  
+- Built an interactive Streamlit app for real-time exploration and filtering by material properties  
+**Tools:** Python, Pandas, Scikit-learn, PCA, Streamlit  
+👉 https://github.com/nmyalet90/materials-clustering-ML
+
+---
+
+**📊 Online Retail Forecasting Dashboard – ML + Tableau**  
+- Cleaned and transformed transactional data from the Online Retail dataset (UK)  
+- Built a machine learning model to forecast monthly revenue  
+- Developed an interactive Tableau dashboard to compare real vs. predicted revenue by country and over time  
+**Tools:** Python, Pandas, Scikit-learn, Tableau  
+👉 https://github.com/nmyalet90/online-retail-forecast-tableau
+
+---
+
+**🏥 Hospital Database Project (SQL)**  
+- Designed and implemented a relational database for hospital management  
+- Modeled entities such as patients, doctors, appointments, and treatments  
+- Wrote SQL queries for data extraction, reporting, and analysis  
+**Tools:** SQL, Database Design, Data Modeling  
+👉 https://github.com/nmyalet90/Hospital-DB
 
 ---
 

@@ -17,6 +17,7 @@ I’m seeking opportunities as a **Data Analyst** or **Data Scientist**, particu
 * ⚙️ **Scientific Computing**: DFT, HPC
 * 💾 **Tools**: Git & GitHub, Jupyter Notebook, Google Colab, Excel
 
+---
 
 ## 🔥 Featured Projects
 
@@ -27,18 +28,14 @@ I’m seeking opportunities as a **Data Analyst** or **Data Scientist**, particu
 **Tools:** Python, Pandas, Scikit-learn, PCA, Streamlit  
 👉 https://github.com/nmyalet90/materials-clustering-ML
 
-
-
-**📊 Online Retail Forecasting Dashboard – ML + Tableau**  
+### 📊 Online Retail Forecasting Dashboard – ML + Tableau**  
 - Cleaned and transformed transactional data from the Online Retail dataset (UK)  
 - Built a machine learning model to forecast monthly revenue  
 - Developed an interactive Tableau dashboard to compare real vs. predicted revenue by country and over time  
 **Tools:** Python, Pandas, Scikit-learn, Tableau  
 👉 https://github.com/nmyalet90/online-retail-forecast-tableau
 
-
-
-**🏥 Hospital Database Project (SQL)**  
+## 🏥 Hospital Database Project (SQL)**  
 - Designed and implemented a relational database for hospital management  
 - Modeled entities such as patients, doctors, appointments, and treatments  
 - Wrote SQL queries for data extraction, reporting, and analysis  

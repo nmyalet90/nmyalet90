@@ -20,7 +20,7 @@ I’m seeking opportunities as a **Data Analyst** or **Data Scientist**, particu
 
 ## 🔥 Featured Projects
 
-**🧠 Materials Informatics ML – Clustering & Exploration App**  
+### 🧠 Materials Informatics ML – Clustering & Exploration App  
 - Collected and processed materials data using the Materials Project API  
 - Applied unsupervised learning (KMeans) and PCA for clustering and dimensionality reduction  
 - Built an interactive Streamlit app for real-time exploration and filtering by material properties  
